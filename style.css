@@ -1,1 +1,26 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Dangrek&display=swap');
+
+*{
+  font-family:Dangrek;
+  box-sizing:border-box;
+}
+
+html,body{
+  height:100%;
+}
+
+h2{
+  font-size:22px;
+  text-align:center;
+  color:#ECEFF1;
+  text-shadow: 0 0 5px #000, 0 0 5px #000, 0 0 5px #000, 0 0 5px #000, 0 0 5px #000;
+}
+
+.container{
+  text-align: center;
+}
+
+body{
+  background: url("https://w0.peakpx.com/wallpaper/657/828/HD-wallpaper-nba-logo-blue-stone-background-nba-grunge-logo-national-basketball-association-nba-emblem-usa-basketball.jpg") center / cover fixed;
+}
